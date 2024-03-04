@@ -136,6 +136,7 @@
   text-align: center;
   margin-left: 31%;
 }
+
 .borrow {
   margin-left: 65%;
   position: absolute;
@@ -148,6 +149,8 @@
 }
 .grow {
   display: flex;
+  margin-left: 5%;
+  margin-top: 3%;
 }
 span.one {
   background-color: #55dd4a;
@@ -156,4 +159,80 @@ span.one {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   padding: 7px 9px;
   border-radius: 15px;
+  text-align: center;
+}
+.sub-heading-one {
+  color: #122315;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 55px;
+  font-weight: 900;
+  letter-spacing: -3px;
+  margin-top: 3%;
+  line-height: 46px;
+}
+.first-sub-para {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  color: #122315;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 140%;
+  width: 74%;
+  margin-top: 26%;
+}
+.adaptable {
+  margin-top: 4%;
+  margin-left: 5%;
+}
+span.two {
+  background-color: #55dd4a;
+  color: #122315;
+  font-weight: 500;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 7px 9px;
+  border-radius: 15px;
+  text-align: center;
+}
+.sub-heading-two {
+  color: #122315;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 55px;
+  font-weight: 900;
+  letter-spacing: -3px;
+  margin-top: 3%;
+  line-height: 46px;
+}
+.second-sub-para {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  color: #122315;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 140%;
+  width: 47%;
+  margin-top: 15%;
+}
+.fast-funds {
+  display: flex;
+  margin-top: 4%;
+  margin-left: 5%;
+}
+.sub-heading-three {
+  color: #122315;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 55px;
+  font-weight: 900;
+  letter-spacing: -3px;
+  margin-top: 3%;
+  line-height: 46px;
+}
+.third-sub-para {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  color: #122315;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 140%;
+  width: 113%;
+  margin-top: 47%;
 }
