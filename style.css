@@ -124,11 +124,14 @@
   line-height: 75px;
 }
 .put {
-  margin-left: 70%;
+  position: absolute;
+  margin-left: 62%;
+  margin-top: -7%;
 }
 .second-para {
   margin-bottom: 24px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #122315;
   font-size: 16px;
   font-weight: 400;
   line-height: 140%;
@@ -142,7 +145,7 @@
   position: absolute;
   margin-top: -23%;
 }
-.together {
+.together-img {
   margin-left: 70%;
   position: absolute;
   margin-top: 1%;
@@ -355,9 +358,9 @@ span.two {
   color: #f3ede4;
   font-size: 18px;
 }
-.good {
+.good-second-para {
   font-family: Arial, Helvetica, sans-serif;
-  color: #f3ede4;
+  color: #122315;
   font-size: 18px;
   margin-left: 12px;
 }
@@ -537,21 +540,62 @@ span.two {
   margin-left: -26%;
 }
 
-.prct {
+.prct-img {
   position: absolute;
-  margin-left: 14%;
-  margin-top: -31%;
+  margin-left: 45%;
+  margin-top: -34%;
 }
 .zero {
   position: absolute;
   margin-top: -14%;
-  margin-left: 44%;
+  margin-left: 57%;
 }
 .mark {
   position: absolute;
   margin-top: -8%;
-  margin-left: -41%;
+  margin-left: -24%;
 }
-.cleam {
+.clean {
   position: absolute;
+  margin-left: 43%;
+}
+.b {
+  position: absolute;
+  margin-left: 29%;
+}
+.action {
+  margin-top: 12%;
+}
+.equality {
+  margin-left: 4%;
+}
+
+/* sec-five-end */
+
+/* sec-six-start */
+.six {
+  padding-top: 8%;
+  background-color: #f3ede4;
+}
+.flex-two {
+  display: flex;
+}
+.together {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  letter-spacing: -2.5px;
+  font-weight: 900;
+  line-height: 67px;
+  color: #122315;
+  font-size: 84px;
+  margin-top: 8%;
+  margin-left: 6%;
+}
+.six-para {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #122315;
+  margin-left: 7%;
+  margin-top: 4%;
 }
