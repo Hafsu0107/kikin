@@ -19,6 +19,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 1%;
 }
 .links {
   display: inline-flex;
@@ -42,12 +43,12 @@
   font-size: 14px;
 }
 .login-btn {
-  border: 1px solid white;
+  border: 1px solid #b0a6a6;
   background-color: rgb(10, 39, 10);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: #fff;
+  color: #f4ebeb;
   border-radius: 10px;
-  font-weight: 500;
+  font-weight: 700;
   padding: 12px 16px;
   margin-right: 10px;
 }
@@ -68,7 +69,7 @@
   letter-spacing: -1.5px;
   font-size: 120px;
   font-weight: 900;
-  margin-top: -35px;
+  margin-top: -6px;
 }
 .main-heading-two {
   color: #55dd4a;
@@ -85,9 +86,9 @@
   font-size: 16px;
   font-weight: 400;
   line-height: 140%;
-  max-width: 442px;
+  width: 35%;
   text-align: center;
-  margin-left: 31%;
+  margin-left: 32%;
 }
 .get-two {
   background-color: #55dd4a;
@@ -95,9 +96,9 @@
   border: 3px solid transparent;
   border-radius: 10px;
   font-weight: 600;
-  padding: 14px 24px;
+  padding: 14px 20px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 19px;
+  font-size: 18px;
   margin-left: 43%;
   cursor: pointer;
 }
@@ -122,11 +123,12 @@
   font-size: 90px;
   font-weight: 900;
   line-height: 75px;
+  margin-top: -9%;
 }
 .put {
   position: absolute;
-  margin-left: 62%;
-  margin-top: -7%;
+  margin-left: 63%;
+  margin-top: -10%;
 }
 .second-para {
   margin-bottom: 24px;
@@ -141,14 +143,18 @@
 }
 
 .borrow {
-  margin-left: 65%;
+  margin-left: 69%;
   position: absolute;
-  margin-top: -23%;
+  margin-top: -27%;
 }
 .together-img {
-  margin-left: 70%;
+  margin-left: 62%;
   position: absolute;
-  margin-top: 1%;
+  margin-top: -8%;
+}
+.good-img {
+  margin-top: -8%;
+  padding-left: 3%;
 }
 .grow {
   display: flex;
@@ -182,6 +188,7 @@ span.one {
   line-height: 140%;
   width: 74%;
   margin-top: 26%;
+  border-bottom: 1px solid rgb(18 35 21 / 48%);
 }
 .adaptable {
   margin-top: 4%;
