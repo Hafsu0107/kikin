@@ -7,9 +7,6 @@
 .one {
   background-color: rgb(10, 39, 10);
   color: #fff;
-  background-image: url(https://assets-global.website-files.com/635273ea37c256ef2835d522/654a36b6f78e92b5209148af_Kikin_Illustrations_Scene_01_RGB%202.svg);
-  top: 4%;
-  height: 400px;
 }
 .logo {
   width: 100px;
@@ -69,6 +66,7 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 14px;
 }
+
 /* nav-btns-end */
 .main-heading {
   text-align: center;
@@ -98,6 +96,7 @@
   margin-left: 32%;
   background-image: ;
 }
+
 .get-two {
   background-color: #55dd4a;
   color: black;
@@ -110,9 +109,8 @@
   margin-left: 43%;
   cursor: pointer;
 }
-.illustrative {
+.kikin-img {
   margin-top: -6%;
-  margin-left: -9%;
 }
 /* sec-one-end */
 
