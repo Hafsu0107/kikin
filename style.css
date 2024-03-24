@@ -457,13 +457,16 @@ span.two {
 }
 .flex {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
 }
+.fee {
+  margin-right: 5px;
+}
 .part-three {
   margin-left: 50%;
-  margin-top: -20%;
+  margin-top: -27%;
   padding: 7%;
 }
 .monthly {
@@ -492,8 +495,8 @@ span.two {
   color: rgb(243 237 228 / 60%);
   text-align: center;
   margin-left: 49%;
-  margin-top: -6%;
-  padding: 27px;
+  margin-top: 1%;
+  padding: 33px;
 }
 /* sec-three-end */
 
@@ -503,12 +506,14 @@ span.two {
 }
 .fourth-main-heading {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 109px;
+  font-size: 93px;
   justify-content: flex-end;
   font-weight: 900;
   color: #f3ede4;
-  letter-spacing: -1.5px;
-  line-height: 98px;
+  letter-spacing: -5.5px;
+  line-height: 93px;
+  text-align: right;
+  margin-right: 26px;
   display: flex;
 }
 .who {
@@ -525,8 +530,8 @@ span.two {
   font-size: 18px;
   font-weight: 400;
   max-width: 36%;
-  margin-top: 32%;
-  margin-left: 5%;
+  margin-top: 35%;
+  margin-left: 12%;
 }
 .columns {
   display: flex;
