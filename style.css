@@ -506,7 +506,7 @@ span.two {
 }
 .fourth-main-heading {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 93px;
+  font-size: 90px;
   justify-content: flex-end;
   font-weight: 900;
   color: #f3ede4;
@@ -516,9 +516,22 @@ span.two {
   margin-right: 26px;
   display: flex;
 }
+.fund-heading {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 90px;
+  justify-content: flex-end;
+  font-weight: 900;
+  color: #f3ede4;
+  letter-spacing: -5.5px;
+  line-height: 57px;
+  text-align: right;
+  margin-right: 26px;
+  display: flex;
+}
 .who {
   background-image: url(https://assets-global.website-files.com/635273ea37c256ef2835d522/654a2d68f78e92b5208a0f3f_Mountains-hands.webp);
   background-size: cover;
+  background-position: 50%;
   height: 700px;
   width: 100%;
 }
@@ -556,6 +569,9 @@ span.two {
   padding-bottom: 20%;
   padding-top: 5%;
 }
+.file-svg {
+  margin-left: 8px;
+}
 .column-three {
   border-top: solid 1px;
   padding-left: 5%;
@@ -573,12 +589,13 @@ span.two {
 }
 .world {
   font-weight: 900;
+  width: 121%;
   font-size: 28px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: #122315;
   line-height: 85%;
   padding: 33px;
-  margin-left: -1%;
+  margin-left: -9%;
 }
 .efforts {
   font-weight: 900;
@@ -591,7 +608,7 @@ span.two {
 }
 .companies {
   text-align: center;
-  padding: 5%;
+  padding: 46px;
   word-spacing: 48px;
 }
 /* sec-four-end */
@@ -604,60 +621,70 @@ span.two {
 .heading-one {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
-  letter-spacing: 0.5px;
+  letter-spacing: -2.5px;
   font-weight: 900;
-  font-size: 68px;
+  font-size: 60px;
+  padding-left: 50px;
   line-height: 45px;
-  padding-top: 20%;
+  padding-top: 27%;
 }
 
 .headings {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
-  letter-spacing: 0.5px;
+  letter-spacing: -2.5px;
   font-weight: 900;
-  font-size: 64px;
+  font-size: 60px;
   line-height: 57px;
+  padding-left: 50px;
 }
 .reduced {
   position: absolute;
-  margin-top: -39%;
+  margin-top: -42%;
   margin-left: 30%;
 }
 .info {
   position: absolute;
-  margin-top: -22%;
-  margin-left: -26%;
+  margin-top: -24%;
+  margin-left: -33%;
 }
 
 .prct-img {
   position: absolute;
   margin-left: 45%;
-  margin-top: -34%;
+  margin-top: -29%;
+  transform: rotate(-9deg);
 }
 .zero {
   position: absolute;
-  margin-top: -14%;
-  margin-left: 57%;
+  margin-top: -12%;
+  margin-left: 51%;
 }
 .mark {
   position: absolute;
-  margin-top: -8%;
-  margin-left: -24%;
+  margin-top: -9%;
+  margin-left: -38%;
+  transform: rotate(-18deg);
 }
 .clean {
   position: absolute;
-  margin-left: 43%;
+  margin-top: 15px;
+  margin-left: 45%;
 }
 .b {
   position: absolute;
-  margin-left: 29%;
+  margin-left: 32%;
+  transform: rotate(9deg);
+  margin-top: 3%;
 }
 .action {
-  margin-top: 12%;
+  position: absolute;
+  margin-left: 8%;
+  margin-top: 3%;
 }
 .equality {
-  margin-left: 4%;
+  margin-left: 22%;
+  margin-top: 5%;
 }
 
 /* sec-five-end */
@@ -698,11 +725,6 @@ span.two {
   position: absolute;
   margin-top: 37%;
   margin-left: -16%;
-}
-.manors {
-  margin-left: 37%;
-  margin-top: -6%;
-  position: absolute;
 }
 .arrows {
   margin-left: 74%;
